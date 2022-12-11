@@ -5,7 +5,15 @@
   box-sizing: border-box;
 }
 
-body {
-  min-width: 100%;
-  min-height: 100%;
+.container{
+  background-color: aliceblue;
 }
+
+body{
+  background-image: url(https://wallpapers-hub.art/wallpaper-images/666656.jpg);
+}
+
+img{
+  max-width: 100%;
+}
+
